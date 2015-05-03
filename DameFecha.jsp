@@ -17,7 +17,8 @@
 
 %>
 
-<h2> La fecha de hoy es: <%= fecha.format(new Date()) %>
+<h2> La fecha del día de hoy es: <%= fecha.format(new Date()) %>
+
 </h2>
 
 </body>
